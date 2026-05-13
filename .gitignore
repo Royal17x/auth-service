@@ -2,6 +2,15 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# env
+.env
+
+# django
+*.sqlite3
 
 # C extensions
 *.so
